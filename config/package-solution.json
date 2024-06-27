@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfxconcepts-client-side-solution",
+    "id": "36b09929-ddee-4fff-b004-dceeebded471",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfxconcepts description"
+      },
+      "longDescription": {
+        "default": "spfxconcepts description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfxconcepts Feature",
+        "description": "The feature that activates elements of the spfxconcepts solution.",
+        "id": "1ae43e53-acaa-4ffb-91a5-f0c9f0a2ba39",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfxconcepts.sppkg"
+  }
+}
