@@ -1,0 +1,2 @@
+CRUD OPERATION: 
+1.  example url format => const siteUrl: string = this.context.pageContext.site.absoluteUrl + "/_api/web/lists/getbytitle('Vicky Student List')/items";
