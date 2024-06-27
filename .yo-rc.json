@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.3",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.19.0",
+    "libraryName": "fluentui-webpart",
+    "libraryId": "d76bf2a5-1a1b-4f43-a864-a254d828f0bc",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "fluentui-webpart",
+    "solutionShortDescription": "fluentui-webpart description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

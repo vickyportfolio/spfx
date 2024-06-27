@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "fluentui-webpart-client-side-solution",
+    "id": "d76bf2a5-1a1b-4f43-a864-a254d828f0bc",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "fluentui-webpart description"
+      },
+      "longDescription": {
+        "default": "fluentui-webpart description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "fluentui-webpart Feature",
+        "description": "The feature that activates elements of the fluentui-webpart solution.",
+        "id": "02d8b994-45ac-4a39-a9a5-fbd5894c35c7",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/fluentui-webpart.sppkg"
+  }
+}
